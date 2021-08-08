@@ -1,1 +1,1 @@
-##### [Patika.dev](https://www.patika.dev/) React Odev Reposu
+##### [Patika.dev](https://www.patika.dev/) React Reposu
