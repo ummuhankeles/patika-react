@@ -1,4 +1,5 @@
 import Contacts from "./components/contacts/Index";
+import './App.css'
 
 function App() {
   return (

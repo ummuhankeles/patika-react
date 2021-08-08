@@ -23,7 +23,7 @@ function Form({contacts, addContact}) {
 
     return (
         <form onSubmit={onSubmit} >
-            <div>
+            <div className="form-box" >
                 <input 
                     name="fullname" 
                     placeholder="fullname" 
@@ -32,7 +32,7 @@ function Form({contacts, addContact}) {
                 />
             </div>
 
-            <div>
+            <div className="form-box" >
                 <input 
                     name="phone_number" 
                     placeholder="phone number"
@@ -41,7 +41,7 @@ function Form({contacts, addContact}) {
                 />
             </div>
 
-            <div>
+            <div className="btn" >
                 <button>Add</button>
             </div>
         </form>
