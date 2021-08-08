@@ -26,6 +26,8 @@ ul, li {
     background-color: antiquewhite;
     padding: 5px;
     margin-bottom: 2px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .form-box {
